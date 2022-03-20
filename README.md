@@ -4,7 +4,7 @@
 
 ## Welcome! 👋
 
-Thanks to visit my Github! In this project, HTML and CSS. This project is coded to understand basic website design and to make exercise about basic HTML, CSS properties. 
+Thanks to visit my Github! In this project,i used HTML and CSS. This project is coded to understand basic website design and to make exercise about basic HTML, CSS properties. And in this project I used MediaQuery to make a responsive Web Design.
 
 **To do this project, i used basic HTML and CSS.**
 
@@ -12,7 +12,7 @@ Thanks to visit my Github! In this project, HTML and CSS. This project is coded 
 
 Users should be able to:
 
-- View a page that has images
+- View a page that has footer, header, images.
 
 ## Got feedback for us?
 
