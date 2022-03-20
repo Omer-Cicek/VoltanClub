@@ -1,6 +1,6 @@
 # Voltran Club Project
 
-![Design preview for the Voltran Club](./design/desktop-preview.jpg)
+![Design preview for the Voltran Club](giphy.mp4)
 
 ## Welcome! 👋
 
